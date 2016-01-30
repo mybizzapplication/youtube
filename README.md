@@ -33,7 +33,7 @@ youtube video - and continue from where he left off!!
 
 ## Judging
 
-- Code quality: testability, encapsulation, design patterns (MVP), comments, readalbe code, clean code, etc.
+- Code quality: testability, encapsulation, design patterns (MVP), comments, readable code, clean code, etc.
 - UI/UX: This is the place for you to show your creativity.
 
 ## Advice and Bonus
@@ -43,7 +43,7 @@ youtube video - and continue from where he left off!!
 	- ui list views
 	- Just check [Android Arsenal](https://android-arsenal.com/)
 - You should use [RecyclerView](http://developer.android.com/training/material/lists-cards.html) for the list.
-- MVP is the recomended pattern (but the future is [MVVM](https://developer.android.com/tools/data-binding/guide.html))
+- MVP is the recommended pattern (but the future is [MVVM](https://developer.android.com/tools/data-binding/guide.html))
 - Bonus: inject your dependencies (not required to use an injection library) and add a mock flavor with some lists of your own.
 
 *Note: Cheating or copying code will lead to disqualifying*
