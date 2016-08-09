@@ -14,8 +14,7 @@ In order to be considered for the Android position, you must complete the follow
 ## Task
 
 1. Fork this repository.
-2. Create a *source* folder to contain your code. 
-3. In the *source* directory, please create an Android app that accomplishes the following:
+2. Create an Android app that accomplishes the following:
 	- Get a list of youtube videos grouped into playlists 
 http://www.razor-tech.co.il/hiring/youtube-api.json
 	- Create a list view that shows each of the 
