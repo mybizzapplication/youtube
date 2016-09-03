@@ -2,8 +2,9 @@
 
 In order to be considered for the Android position, you must complete the following steps. 
 
-*Note: This task should take no longer than one hour at the most.*
+*Note: Try to finish this test in two hours.*
 
+*Note: If you are not familiar with Android at all then you may write this exercise as a desktop app with any programming language of your choosing.*
 
 ### Prerequisites
 
@@ -13,7 +14,7 @@ In order to be considered for the Android position, you must complete the follow
 
 ## Task
 
-1. Fork this repository.
+1. **Fork** this repository.
 2. Create an Android app that accomplishes the following:
 	- Get a list of youtube videos grouped into playlists 
 http://www.razor-tech.co.il/hiring/youtube-api.json
@@ -27,8 +28,8 @@ immediately. We would prefer that you do not use a web view for this (use a yout
 library instead). Advice: Start with web view (or intent) and then move to a customize component.
 	- The user should be able to navigate back to the list view after viewing the 
 youtube video - and continue from where he left off!!
-4. Commit and Push your code to your new repository
-5. Send us a pull request, we will review your code and get back to you
+4. Commit and Push your code to **your new** repository
+5. Send us a pull request for your repository, we will review your code and get back to you
 
 ## Judging
 
